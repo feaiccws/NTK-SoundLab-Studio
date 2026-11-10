@@ -1,0 +1,247 @@
+﻿[
+    {
+        "path":  "404.html",
+        "bytes":  854,
+        "sha256":  "f75d1957d4205cc4c7b8449b15de280921e62724a55c0f60d63295f8ec9a3a5e"
+    },
+    {
+        "path":  "index.html",
+        "bytes":  182903,
+        "sha256":  "c2d557a0ed4832687807ec081aef379ed64be6f7248165cb9bdf714c05ed39c2"
+    },
+    {
+        "path":  "manifest.json",
+        "bytes":  970,
+        "sha256":  "f124aa0d56f366818e7b69e47ca22c469143ef788c925f5f9cbf2b64f535ee9c"
+    },
+    {
+        "path":  "robots.txt",
+        "bytes":  23,
+        "sha256":  "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+    },
+    {
+        "path":  "sw.js",
+        "bytes":  4346,
+        "sha256":  "f1534037b38bd212ba9771e5a25aaf0ef6352a848222501b95b9665fc09ff6a1"
+    },
+    {
+        "path":  "assets/icon.svg",
+        "bytes":  1683,
+        "sha256":  "9e1bfe8b1bad7654f181746f641168d821da7f192d2ee536983bc46a8c5052df"
+    },
+    {
+        "path":  "assets/icons/icon-192.png",
+        "bytes":  1470,
+        "sha256":  "22e791eb318a140968d16357be505563a0adc06b337e9815340e813054089d41"
+    },
+    {
+        "path":  "assets/icons/icon-512.png",
+        "bytes":  4310,
+        "sha256":  "343aa5ff23edd513b55f193eb462a01cb39f56ea4eec9e221c49bb6b14b450cc"
+    },
+    {
+        "path":  "css/components.css",
+        "bytes":  28737,
+        "sha256":  "f7b52fb61d9fd324eb2a89c38a43343e66175131abfd6ff1c0ae76392c2fe66a"
+    },
+    {
+        "path":  "css/player.css",
+        "bytes":  2600,
+        "sha256":  "f7e61abf28ec577a5603113666a6469a36cc8e12a2b5fac11d3ae41a5687995c"
+    },
+    {
+        "path":  "css/style.css",
+        "bytes":  5193,
+        "sha256":  "9c5f9179cad07dce0f9c761e0f8f0a619f6598cc26fce604d5b7986f2f048856"
+    },
+    {
+        "path":  "css/transcribe.css",
+        "bytes":  1987,
+        "sha256":  "23fddb702ea4dd435e98077bb7630ee2c0df6c3177aeb2bf51013699dd6d1f9d"
+    },
+    {
+        "path":  "css/tutorial.css",
+        "bytes":  13461,
+        "sha256":  "ab3b662b9a533b295307cc2e08a22067402ef51f687fa4d3b2028e813722de23"
+    },
+    {
+        "path":  "css/visualizer.css",
+        "bytes":  23574,
+        "sha256":  "99d828cda99953e0a51d26a31807834e38cadb99431e74da6df552e3e9c52980"
+    },
+    {
+        "path":  "js/ai-policy.js",
+        "bytes":  2522,
+        "sha256":  "4f0a12c234fccdd376f8a3bc78555cc310badc058452c527f7e32f257cb2ede8"
+    },
+    {
+        "path":  "js/app.js",
+        "bytes":  218491,
+        "sha256":  "485d3af332ba978177dad8124ca653393b0904520b603c5700ba786cfaaa022b"
+    },
+    {
+        "path":  "js/audio-converter.js",
+        "bytes":  10147,
+        "sha256":  "80828622e6da0c84b3a4d755c04b6b4642f3d2af524a4b2372e40e4f6b6a9a73"
+    },
+    {
+        "path":  "js/audio-fx.js",
+        "bytes":  7865,
+        "sha256":  "88752f628bfad6ae2f1ae608c49c9b7879ad226f8df8b223093d80c988311672"
+    },
+    {
+        "path":  "js/bookmarklet.js",
+        "bytes":  12480,
+        "sha256":  "8799cb879dac3e60cc1382fd30122e61c37bd5261b68e26d57cce748249143bd"
+    },
+    {
+        "path":  "js/crypto-engine.js",
+        "bytes":  3268,
+        "sha256":  "79fe62a5f9cfb24c3326e2e2b45b92121cdfc557ba72f0f1ee3884a932f2b772"
+    },
+    {
+        "path":  "js/id3-writer.js",
+        "bytes":  8453,
+        "sha256":  "5f0002933bc0f9d2c8270ecc5e917db1e493f7eedd32078505a2ab40c193ed4d"
+    },
+    {
+        "path":  "js/image-cropper.js",
+        "bytes":  19003,
+        "sha256":  "af8b7f50c44fd8f027d667085b5b95d8eacb4d7e90706bcf0e0daeeacb2631c5"
+    },
+    {
+        "path":  "js/lyric-alignment.js",
+        "bytes":  9818,
+        "sha256":  "f2066619b03db5fbfdd50dfd9726d36f20b84bd4e2c9b3a9ec6989dca5980dd2"
+    },
+    {
+        "path":  "js/lyrics-utils.js",
+        "bytes":  11982,
+        "sha256":  "e7b64876d45d13b272a03f4594107ac5f0c1f1b0ce5cb691801a48cc02369847"
+    },
+    {
+        "path":  "js/mp3-encoder.js",
+        "bytes":  4028,
+        "sha256":  "cda1c94bac5338b01c05c9c507e961e35cb31c6c0dda42a1c80536a9750a9411"
+    },
+    {
+        "path":  "js/network-policy.js",
+        "bytes":  1255,
+        "sha256":  "a15f1e1182346a33aa4157a9210165ed720a88860af830185c1dddc201082f8c"
+    },
+    {
+        "path":  "js/omni-api.js",
+        "bytes":  17012,
+        "sha256":  "a785ca895ac2f9d24ad5093e9cb312b9facf349a5c766ab909a4106cd0587129"
+    },
+    {
+        "path":  "js/player.js",
+        "bytes":  8077,
+        "sha256":  "50d20f6e7100e83bb6bfae510b40bfd5eca3fa731139d1a4b831ace8c93ac096"
+    },
+    {
+        "path":  "js/stem-engine.js",
+        "bytes":  20473,
+        "sha256":  "0a88f34a3f89802431317bfb2e67c4193cb906a9bcc0750b8429a4ad559b1db5"
+    },
+    {
+        "path":  "js/stem-mixer.js",
+        "bytes":  11454,
+        "sha256":  "1732268e7ec3f3a41ed438f97cb9a4c8563a12084f8fea25be23d30e7e3b7267"
+    },
+    {
+        "path":  "js/storage.js",
+        "bytes":  4961,
+        "sha256":  "e7f812105835fbf4010d67a7de242cbd671b64fb9a93bab75543b3dab48648a3"
+    },
+    {
+        "path":  "js/suno-api.js",
+        "bytes":  19807,
+        "sha256":  "75f65a3723916f94ccba8bdc5b999c5d61860b714aee7d4d9b7c643f36d5f11e"
+    },
+    {
+        "path":  "js/transcribe-engine.js",
+        "bytes":  8775,
+        "sha256":  "ff346486535a788f72b9da863e6b811fa5a8ac12bab4c368137aec1c8fe831c6"
+    },
+    {
+        "path":  "js/transcribe-studio.js",
+        "bytes":  12252,
+        "sha256":  "8f3f5ca4becab975ba120ca5eb00079d2ae1ac361c8273182c635650de10d552"
+    },
+    {
+        "path":  "js/transcript-store.js",
+        "bytes":  1592,
+        "sha256":  "410c31f39579bf82f3de200052e751311494650708fd2e56068d59cc56e63341"
+    },
+    {
+        "path":  "js/tutorial.js",
+        "bytes":  6797,
+        "sha256":  "562bf336e306ba1f63482e828a1c536f3c646efbffe937c681e2450d8d61ee8c"
+    },
+    {
+        "path":  "js/vault-db.js",
+        "bytes":  14334,
+        "sha256":  "e80e3c66c62cf09abeb20ea2c5039aabe7441d61534ee89b823f2b798bf72783"
+    },
+    {
+        "path":  "js/video-demuxer.js",
+        "bytes":  5000,
+        "sha256":  "782b434da32f10153acc5d3e797a36b509dc5950b93a67852aebaa9c626ddb4a"
+    },
+    {
+        "path":  "js/video-generator.js",
+        "bytes":  126000,
+        "sha256":  "93c7d0dd829d4b1039d94df8bc0a619b407706e568f27973567022454640b75f"
+    },
+    {
+        "path":  "js/zip-packager.js",
+        "bytes":  10324,
+        "sha256":  "e403abd37fdc20799ca5b99344ad527997f7a7010935be6006fcb8e27e44997c"
+    },
+    {
+        "path":  "lib/jszip.min.js",
+        "bytes":  97630,
+        "sha256":  "acc7e41455a80765b5fd9c7ee1b8078a6d160bbbca455aeae854de65c947d59e"
+    },
+    {
+        "path":  "lib/lame.all.js",
+        "bytes":  530087,
+        "sha256":  "026bd88846040f357a937cd85821a48492a362eff0812cda734f23fca55fea3b"
+    },
+    {
+        "path":  "lib/demucs-web/constants.js",
+        "bytes":  426,
+        "sha256":  "be28bc4ae2d3cf7b962e158f6668221d357ad38a6d4fdc8e41d48a3c6a82c634"
+    },
+    {
+        "path":  "lib/demucs-web/fft.js",
+        "bytes":  6313,
+        "sha256":  "d9fa28b25c7f4a0c6ee10b42d4229d8dbe9d9fefe46c780263c8b9a700e96b80"
+    },
+    {
+        "path":  "lib/demucs-web/index.js",
+        "bytes":  318,
+        "sha256":  "56955e92089ff8413632bbb13d87f478a59287b6087efba3bb98dc59b96b494f"
+    },
+    {
+        "path":  "lib/demucs-web/processor.js",
+        "bytes":  12454,
+        "sha256":  "f869b9310efe86539c501a1f12deec639b4620ab5396bd4dcd1ee54b62c66c96"
+    },
+    {
+        "path":  "lib/mediabunny/LICENSE.txt",
+        "bytes":  16726,
+        "sha256":  "3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04"
+    },
+    {
+        "path":  "lib/mediabunny/mediabunny.js",
+        "bytes":  722897,
+        "sha256":  "7898aa3e638df09ac3f59bfcbdef2757bbbd1a78f24d3339247a07e674a7877d"
+    },
+    {
+        "path":  "lib/mediabunny/NOTICE.txt",
+        "bytes":  281,
+        "sha256":  "ed305d35d4d84515e9031c0ff9363b2b5f8af8d390053db68ce475517b2a4992"
+    }
+]

@@ -1,0 +1,4 @@
+Mediabunny 1.65.0, Copyright Vanilagy. Mozilla Public License 2.0.
+Unmodified upstream ES module bundle (extension changed to .js).
+Corresponding source: https://registry.npmjs.org/mediabunny/-/mediabunny-1.65.0.tgz
+Project: https://github.com/Vanilagy/mediabunny/tree/v1.65.0

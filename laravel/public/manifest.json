@@ -1,0 +1,32 @@
+{
+  "name": "NTK SoundLab Studio • Universal Media & Neural Stem Separator",
+  "short_name": "NTK SoundLab",
+  "description": "NTK Hub universal multi-platform media downloader, video & audio demuxer, HTDemucs v4 2-stem and 4-stem neural separator, waveform trimmer, mastering FX, ID3 tagger, and 1080p karaoke video studio.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0e17",
+  "theme_color": "#06b6d4",
+  "categories": ["music", "multimedia", "utilities", "video"],
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

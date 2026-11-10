@@ -1,0 +1,67 @@
+# ==============================================================================
+# NTK SoundLab Studio - Root Git Ignore
+# ==============================================================================
+
+# OS & System
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Git backups & temporary working trees
+*.git.bak
+*.git.bak/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+
+# Node & npm
+node_modules/
+
+# PHP / Laravel
+laravel/vendor/
+laravel/.env
+laravel/.env.backup
+laravel/storage/logs/*.log
+laravel/storage/framework/cache/data/*
+!laravel/storage/framework/cache/data/.gitignore
+laravel/storage/framework/cache/locks/*
+!laravel/storage/framework/cache/locks/.gitignore
+laravel/storage/framework/sessions/*
+!laravel/storage/framework/sessions/.gitignore
+laravel/storage/framework/views/*
+!laravel/storage/framework/views/.gitignore
+
+# Android Build Artifacts & Keystores
+android/build/
+android/app/build/
+*.jks
+*.keystore
+*.p12
+
+# Go / Desktop Build Artifacts & Work Directories
+desktop/build-backups/
+desktop/linux-build-*/
+desktop/main.exe
+desktop/omnistream-studio-linux
+desktop/OmniStreamStudio-Portable.exe
+dist/
+
+# Evidence & Local Test Workspaces (chrome binaries, temporary run logs)
+working/EVIDENCE/
+working/.firebase/
+firebase-debug.log*
+firestore-debug.log*
+ui-debug.log*

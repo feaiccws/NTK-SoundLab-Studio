@@ -1,0 +1,5 @@
+cryptography>=42.0.0
+yt-dlp>=2024.0.0
+# Optional for Local Native PyTorch HTDemucs v4:
+# torch>=2.2.0
+# demucs>=4.0.0
